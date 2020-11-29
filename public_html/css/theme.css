@@ -9658,11 +9658,12 @@ header .navbar-nav a {
   padding: 140px 0;
   background-position: top right;
   background-repeat: no-repeat;
-  background-size: auto 100%;
+  background-size: 50% 100%;
 }
 
 .lead-page-section .lead-section-content {
   background: rgba(255, 255, 255, 0.8);
+  text-align: left;
 }
 
 .lead-page-section .lead-section-content .lead-section-title {
