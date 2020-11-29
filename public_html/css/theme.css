@@ -9692,6 +9692,29 @@ header .navbar-nav a {
   color: #1E1E1E;
 }
 
+.service-section.dark-service-section {
+  background-color: #11284B;
+}
+
+.service-section.dark-service-section h2 {
+  color: #1A77CD;
+}
+
+.service-content {
+  padding: 50px 0;
+}
+
+.service-content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+@media (min-width: 992px) {
+  .service-content {
+    padding: 107px 0;
+  }
+}
+
 .team-section {
   padding: 67px 0 61px;
 }
